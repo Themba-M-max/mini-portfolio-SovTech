@@ -1,4 +1,4 @@
-.# A mini portfolio for SovTech :+1:
+# A mini portfolio for SovTech :+1:
 A mini web application displaying my interest towards applying to SovTech 
 
 # Getting started
