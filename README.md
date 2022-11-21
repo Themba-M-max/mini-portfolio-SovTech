@@ -1,4 +1,4 @@
-# A mini portfolio for SovTech :+1:
+.# A mini portfolio for SovTech :+1:
 A mini web application displaying my interest towards applying to SovTech 
 
 # Getting started
@@ -14,10 +14,10 @@ npm@7.18.1 or higher
 # How to use 
 Download the package from Craig's github then, After that install NPM dependencies. You also need to install Next, React and React-Dom NPM Packages
 ```
-# Install dependencies
+># Install dependencies
 $ npm install
 
-# Download Next, React, and React-Dom NPM Packages
+># Download Next, React, and React-Dom NPM Packages
 $ npm install --save next react react-dom
 
 ```
