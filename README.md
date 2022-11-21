@@ -23,3 +23,7 @@ $ npm install --save next react react-dom
 ```
 Once the server has started, run the application by using `npm run dev` then go to the URL `localhost:3000` to run the application. 
 Now the SovTech personal portfolio has been bootstrapped :+1:
+
+# Hosting site
+Netlify was used as the hosting service for this static site.  
+The following is the link to the [Website](https://whimsical-maamoul-500639.netlify.app/)
