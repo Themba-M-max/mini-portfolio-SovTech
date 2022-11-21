@@ -16,7 +16,8 @@ Download the package from Craig's github then, After that install NPM dependenci
 ```
 # Install dependencies
 $ npm install
- # Download Next, React, and React-Dom NPM Packages
+
+# Download Next, React, and React-Dom NPM Packages
 $ npm install --save next react react-dom
 
 ```
