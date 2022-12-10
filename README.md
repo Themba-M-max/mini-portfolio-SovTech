@@ -12,7 +12,7 @@ npm@7.18.1 or higher
 ```
 
 # How to use 
-Download the package from Craig's github then, After that install NPM dependencies. You also need to install Next, React and React-Dom NPM Packages
+Download the package from then, After that install NPM dependencies. You also need to install Next, React and React-Dom NPM Packages
 ```
 # Install dependencies
 $ npm install
