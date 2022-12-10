@@ -1,5 +1,5 @@
 # A mini portfolio for SovTech :+1:
-A mini web application displaying my interest towards applying to SovTech 
+A mini web application in reactJS
 
 # Getting started
 The following are instructions on how to run the application
